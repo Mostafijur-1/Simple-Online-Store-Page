@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Simple-Online-Store-Page/static/css/main.64f34a66.css",
-    "main.js": "/Simple-Online-Store-Page/static/js/main.7a87983e.js",
+    "main.js": "/Simple-Online-Store-Page/static/js/main.8516ac51.js",
     "index.html": "/Simple-Online-Store-Page/index.html",
     "main.64f34a66.css.map": "/Simple-Online-Store-Page/static/css/main.64f34a66.css.map",
-    "main.7a87983e.js.map": "/Simple-Online-Store-Page/static/js/main.7a87983e.js.map"
+    "main.8516ac51.js.map": "/Simple-Online-Store-Page/static/js/main.8516ac51.js.map"
   },
   "entrypoints": [
     "static/css/main.64f34a66.css",
-    "static/js/main.7a87983e.js"
+    "static/js/main.8516ac51.js"
   ]
 }
