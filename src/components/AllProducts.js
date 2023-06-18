@@ -41,6 +41,7 @@ const AllProducts = () => {
 
   const toggleSidebar = () => {
     setIsSidebarVisible(!isSidebarVisible);
+    setSearchTerm("");
   };
 
   return (
