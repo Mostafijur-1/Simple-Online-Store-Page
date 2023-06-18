@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-Online-Store-Page/static/css/main.64f34a66.css",
+    "main.js": "/Simple-Online-Store-Page/static/js/main.7a87983e.js",
+    "index.html": "/Simple-Online-Store-Page/index.html",
+    "main.64f34a66.css.map": "/Simple-Online-Store-Page/static/css/main.64f34a66.css.map",
+    "main.7a87983e.js.map": "/Simple-Online-Store-Page/static/js/main.7a87983e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f34a66.css",
+    "static/js/main.7a87983e.js"
+  ]
+}
